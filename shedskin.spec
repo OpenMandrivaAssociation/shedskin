@@ -1,7 +1,7 @@
 Summary:    An experimental python to c++ compiler
 Name:       shedskin
 Version:    0.8
-Release:    3
+Release:    4
 Source0:    http://schedskin.googlecode.com/files/shedskin-%{version}.tgz
 License:	GPLv3
 Group:		Development/Python
