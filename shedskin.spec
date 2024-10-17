@@ -5,7 +5,7 @@ Release:    4
 Source0:    http://schedskin.googlecode.com/files/shedskin-%{version}.tgz
 License:	GPLv3
 Group:		Development/Python
-Url:		http://code.google.com/p/shedskin/
+Url:		https://code.google.com/p/shedskin/
 BuildRequires:	python-devel
 Requires:	pkgconfig(bdw-gc)
 BuildArch:	noarch
